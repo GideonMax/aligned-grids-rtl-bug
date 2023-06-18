@@ -1,2 +1,0 @@
-# aligned-grids-rtl-bug
- 
